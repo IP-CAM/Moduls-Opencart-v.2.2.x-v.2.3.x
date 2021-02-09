@@ -1,19 +1,19 @@
-O QUE FAZ?
+WHAT ARE YOU DOING?
 
-Este OCMOD tem a funcionalidade de adaptar a compatibilidade de alguns módulos (pagamentos e envio) desenvolvidos para a Opencart 2.2.x para que o mesmo funcione na versão mas atual que é a 2.3.x sem precisar modificar nada na estrutura ou código.
+This OCMOD has the functionality to adapt the compatibility of some modules (payments and shipping) developed for Opencart 2.2.x so that it works in the current version, which is 2.3.x without having to change anything in the structure or code.
 
-ESTE MÓDULO FOI TESTADO?
+Has this module been tested?
 
-Testei em alguns módulos de pagamento de desenvolvimento proprio qual possuo, recomendo testar sempre em lojas que não esteja em produção e verificar o funcionamento.
+I tested in some payment modules of my own development, I recommend always testing in stores that are not in production and checking the operation.
 
-COMO INSTALAR
+HOW TO INSTALL
 
-1 - Enviar o arquivo xml do ocmod para dentro do diretorio system/ de sua Opencart 2.3.x. 
+1 - Send the ocmod xml file into the system / directory of your Opencart 2.3.x.
 
-2 - Acesse admin > modificações e no canto superior direito clique em recarregar modificações. 
+2 - Go to admin> modifications and in the upper right corner click reload modifications.
 
-3 - Após recarregado com sucesso basta tentar instalar seus módulos de opencart 2.2.x em sua 2.3.x e testar.
+3 - After successfully reloaded just try to install your opencart 2.2.x modules in your 2.3.x and test.
 
-SUA CONTRIBUIÇÃO É BEM VINDA
+YOUR CONTRIBUTION IS WELCOME
 
-Fique a vontade para melhorar o código e contribuir com o mesmo.
+Feel free to improve the code and contribute to it. 
